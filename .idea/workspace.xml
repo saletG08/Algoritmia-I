@@ -56,26 +56,13 @@
       <recent name="$PROJECT_DIR$/src/Practica5" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SumPairFinder">
-    <configuration name="Ejercicio3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practica006.Ejercicio3" />
+  <component name="RunManager" selected="Application.OrderBackwards">
+    <configuration name="BalancedBrackets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practica008.BalancedBrackets" />
       <module name="Algoritmia-I" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practica006.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Examenes.Examen1.Ejercicio1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Examenes.Examen1.Ejercicio1" />
-      <module name="Algoritmia-I" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Examenes.Examen1.*" />
+          <option name="PATTERN" value="Practica008.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,6 +96,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OrderBackwards" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practica008.OrderBackwards" />
+      <module name="Algoritmia-I" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practica008.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SumPairFinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practica007.SumPairFinder" />
       <module name="Algoritmia-I" />
@@ -124,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OrderBackwards" />
+        <item itemvalue="Application.BalancedBrackets" />
         <item itemvalue="Application.SumPairFinder" />
         <item itemvalue="Application.Examenes.Examen1.Ejercicio3" />
         <item itemvalue="Application.Examenes.Examen1.Ejercicio2" />
-        <item itemvalue="Application.Examenes.Examen1.Ejercicio1" />
-        <item itemvalue="Application.Ejercicio3" />
       </list>
     </recent_temporary>
   </component>
@@ -147,10 +147,26 @@
       <workItem from="1692316911017" duration="447000" />
       <workItem from="1692363915095" duration="2240000" />
       <workItem from="1692375913449" duration="1074000" />
+      <workItem from="1692752486072" duration="10391000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Practica008/BalancedBrackets.java</url>
+          <line>6</line>
+          <properties class="Practica008.BalancedBrackets" method="isBalancedBrackets">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
